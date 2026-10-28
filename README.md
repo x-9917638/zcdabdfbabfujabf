@@ -1,5 +1,7 @@
 # Cli tool for getting Hacker News stuff
 
+This displays the top posts in Hacker News, supporting all categories in `[new, top, best, ask, show, job]`
+
 ## Building
 Requires the Rust toolchain.
 
